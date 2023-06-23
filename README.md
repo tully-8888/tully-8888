@@ -17,7 +17,7 @@
 - [S20 Advanced Menu](https://play.google.com/store/apps/details?id=com.theviciousgames.s20advancedmenu) - Advanced System Menu for Samsung Galaxy S20, root-only hidden settings changer like refresh rate and resolution modes. Java / (not so) CLEAN.
   
 #### Smaller but still interesting
-- [Pixabay Image Search](https://github.com/tully-8888/PixabayApp) - Pixabay Image Search app using MVVM, Compose, Infinite Scroll, Offline cache using Room Database, Image preview using AndroidView of PhotoView
+- [Real-Time Refresh Rate Checker](https://play.google.com/store/apps/details?id=com.theviciousgames.dynamicrefreshratechecker) - Monitor refresh rate in real time. Useful for testing CPU/GPU Throttling and locked-refresh-rate-apps.
 
 ### Linkedin
 - [Profile](https://www.linkedin.com/in/tulituvlad)
