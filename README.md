@@ -14,16 +14,13 @@
 #### Larger Projects
 - [Kopilot](https://play.google.com/store/apps/details?id=ro.seltronix.kopilot) - Truck navigation made for professional drivers, over 100k download on Play Store!
 - [DPI Changer](https://play.google.com/store/apps/details?id=com.theviciousgames.dpimodifier) - Simple, (non) root DPI Changer. MVVM / Kotlin / CLEAN, over 400k download on Play Store!
-
+- [S20 Advanced Menu](https://play.google.com/store/apps/details?id=com.theviciousgames.s20advancedmenu) - Advanced System Menu for Samsung Galaxy S20, root-only hidden settings changer like refresh rate and resolution modes. Java / (not so) CLEAN.
+  
 #### Smaller but still interesting
 - [Pixabay Image Search](https://github.com/tully-8888/PixabayApp) - Pixabay Image Search app using MVVM, Compose, Infinite Scroll, Offline cache using Room Database, Image preview using AndroidView of PhotoView
 
-#### Smaller but still interesting
-- [Pixabay Image Search](https://github.com/realityexpander/PixabayApp) - Pixabay Image Search app using MVVM, Compose, Infinite Scroll, Offline cache using Room Database, Image preview using AndroidView of PhotoView
-- [Ktor Realtime Chat](https://github.com/realityexpander/KtorAndroidChat) - Realtime Chat App build with Ktor backend, MVVM, Compose, MongoDB Database, WebSockets, Ktor Client
-
 ### Medium Articles
-- [How to use Parcelable and custom @TypeParceler with Kotlin Multiplatform Mobile (KMM)](https://medium.com/@chrisathanas/how-to-use-parcels-on-kotlin-multiplatform-mobile-kmm-e29590816624)
+- [SOON](SOON)
 
 ### Google Play
 - [Google Play Developer Page](https://play.google.com/store/apps/dev?id=7466162782462237210)
