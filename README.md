@@ -4,7 +4,7 @@
 **tully-8888/tully-8888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on Android native and KMM projects
+- 🔭 I’m currently working on Android and iOS native apps.
 - 🌱 I’m exploring latest techniques in Android, things (too) change quickly around here!
 - 📫 How to reach me: tulituvlad@gmail.com
 - ⚡ Fun fact: My second app made by myself has 400k+ downloads.
