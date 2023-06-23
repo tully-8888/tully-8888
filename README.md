@@ -5,21 +5,28 @@
 -->
 
 - 🔭 I’m currently working on Android native and KMM projects
-- 🌱 I’m exploring latest techniques in Android, things change quickly around here!
+- 🌱 I’m exploring latest techniques in Android, things (too) change quickly around here!
 - 📫 How to reach me: tulituvlad@gmail.com
 - ⚡ Fun fact: My second app made by myself has 400k+ downloads.
 
 ### Interesting Android Native & iOS projects I have built:
 
 #### Larger Projects
-- [Tasky](https://github.com/realityexpander/Tasky) - Lite version of Google Calendar to track daily agenda items. MVVM / Kotlin / CLEAN, over 100 stars on GitHub!
-- [Translator KMM](https://github.com/realityexpander/Translator_KMM) - iOS and Android Cross-platform foreign language translator app written with KMM in Kotlin
-- [Guess-A-Sketch](https://github.com/realityexpander/GuessASketch) - Multiplayer Real-time Sketch Game using websockets and Ktor back end server, Speech recognition
-- [Bike Tracking](https://github.com/realityexpander/BikingApp) - 🚲 Bike Ride tracking app using MVVM, fragments, GPS tracking service, Room database, custom TypeConverters
-- [Cats vs. Dogs](https://github.com/realityexpander/CatsVsDogsAndroid) - Cats versus Dogs for world domination. Realtime 2-player game built with websockets
-- [Hyperlocal Weather](https://github.com/realityexpander/HyperlocalWeather) - Hyperlocal Weather tracking application using Compose and [`Open-meteo Api`](https://open-meteo.com)
-- [Slang-Dictionary](https://github.com/realityexpander/Slang-Dictionary) - American slang and regular dictionary based on [`dictionaryapi.dev`](https://dictionaryapi.dev), Pronounces the words and gives multiple definitions
-- [Calorie Track](https://github.com/realityexpander/CalorieTrack) - Multi-module CLEAN architecture app to track calories using [`Open Food Api`](https://world.openfoodfacts.org/)
+- [Tasky](https://github.com/tully-8888/Tasky) - Lite version of Google Calendar to track daily agenda items. MVVM / Kotlin / CLEAN, over 100 stars on GitHub!
+- [Translator KMM](https://github.com/tully-8888/Translator_KMM) - iOS and Android Cross-platform foreign language translator app written with KMM in Kotlin
+- [Guess-A-Sketch](https://github.com/tully-8888/GuessASketch) - Multiplayer Real-time Sketch Game using websockets and Ktor back end server, Speech recognition
+- [Bike Tracking](https://github.com/tully-8888/BikingApp) - 🚲 Bike Ride tracking app using MVVM, fragments, GPS tracking service, Room database, custom TypeConverters
+- [Cats vs. Dogs](https://github.com/tully-8888/CatsVsDogsAndroid) - Cats versus Dogs for world domination. Realtime 2-player game built with websockets
+- [Hyperlocal Weather](https://github.com/tully-8888/HyperlocalWeather) - Hyperlocal Weather tracking application using Compose and [`Open-meteo Api`](https://open-meteo.com)
+- [Slang-Dictionary](https://github.com/tully-8888/Slang-Dictionary) - American slang and regular dictionary based on [`dictionaryapi.dev`](https://dictionaryapi.dev), Pronounces the words and gives multiple definitions
+- [Calorie Track](https://github.com/tully-8888/CalorieTrack) - Multi-module CLEAN architecture app to track calories using [`Open Food Api`](https://world.openfoodfacts.org/)
+
+#### Smaller but still interesting
+- [Pixabay Image Search](https://github.com/tully-8888/PixabayApp) - Pixabay Image Search app using MVVM, Compose, Infinite Scroll, Offline cache using Room Database, Image preview using AndroidView of PhotoView
+- [Ktor Realtime Chat](https://github.com/tully-8888/KtorAndroidChat) - Realtime Chat App build with Ktor backend, MVVM, Compose, MongoDB Database, WebSockets, Ktor Client
+- [Spotify Clone](https://github.com/tully-8888/SpotifyClone) - Music streaming App & service using a Firebase back-end and the Exoplayer library
+- [Zombie Outbreak Locator](https://github.com/tully-8888/ZombieOutbreakLocator) -  ☣️ Convenient way to track Zombie Outbreaks worldwide using Compose Google Maps Api
+- [Tesla App](https://github.com/tully-8888/Tes
 
 #### Smaller but still interesting
 - [Pixabay Image Search](https://github.com/realityexpander/PixabayApp) - Pixabay Image Search app using MVVM, Compose, Infinite Scroll, Offline cache using Room Database, Image preview using AndroidView of PhotoView
@@ -46,7 +53,7 @@
 
 ### Portfolio Site (not updated since 2018, this repo is more recent)
 - [Chris Athanas's Portfolio](https://asd.com/resume)
-- [LinkedIn Profile](https://www.linkedin.com/in//)
+- [LinkedIn Profile](https://www.linkedin.com/in/tulituvlad)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tully-8888)
 
