@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**realityexpander/realityexpander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**tully-8888/tully-8888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 - 🔭 I’m currently working on Android native and KMM projects
@@ -48,21 +48,12 @@
 - [Chris Athanas's Portfolio](https://asd.com/resume)
 - [LinkedIn Profile](https://www.linkedin.com/in//)
 
-StackOverflow reputation: 
-<!--
-[<img src="https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/2857200?maxAge=12000"/>](https://stackoverflow.com/users/2857200/RealityExpander)
--->
-
-[<a href="https://stackoverflow.com/users/2857200/realityexpander"><img src="https://stackoverflow.com/users/flair/2857200.png?theme=dark" width="208" height="58" alt="profile for RealityExpander at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for RealityExpander at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>](https://stackoverflow.com/users/2857200/RealityExpander)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=tully-8888)
 
-![Tully's Github Stats](https://github-readme-stats.vercel.app/api?username=realityexpander&show_icons=true&hide_border=true&count_private=true&theme=midnight-purple)
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realityexpander&layout=compact&langs_count=7&theme=algolia"/>
+![Tully's Github Stats](https://github-readme-stats.vercel.app/api?username=tully-8888&show_icons=true&hide_border=true&count_private=true&theme=midnight-purple)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tully-8888&layout=compact&langs_count=7&theme=algolia"/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=realityexpander&border_radius=4.2&theme=midnight-purple)](https://git.io/streak-stats)
-
-### Yes, I have badges! :)
+[![GitHub Streak](https://streak-stats.demolab.com?user=tully-8888&border_radius=4.2&theme=midnight-purple)](https://git.io/streak-stats)
 
 [<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/misc/mobile.svg"/>]()
 [<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/android_studio.svg"/>]()
