@@ -12,7 +12,7 @@
 ### Interesting Android Native & iOS projects I have built:
 
 #### Larger Projects
-- [Tasky](https://github.com/tully-8888/Tasky) - Lite version of Google Calendar to track daily agenda items. MVVM / Kotlin / CLEAN, over 100 stars on GitHub!
+- [DPI Changer](https://play.google.com/store/apps/details?id=com.theviciousgames.dpimodifier) - Simple, (non) root DPI Changer. MVVM / Kotlin / CLEAN, over 400k download on Play Store!
 
 #### Smaller but still interesting
 - [Pixabay Image Search](https://github.com/tully-8888/PixabayApp) - Pixabay Image Search app using MVVM, Compose, Infinite Scroll, Offline cache using Room Database, Image preview using AndroidView of PhotoView
