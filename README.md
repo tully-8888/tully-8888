@@ -13,37 +13,13 @@
 
 #### Larger Projects
 - [Tasky](https://github.com/tully-8888/Tasky) - Lite version of Google Calendar to track daily agenda items. MVVM / Kotlin / CLEAN, over 100 stars on GitHub!
-- [Translator KMM](https://github.com/tully-8888/Translator_KMM) - iOS and Android Cross-platform foreign language translator app written with KMM in Kotlin
-- [Guess-A-Sketch](https://github.com/tully-8888/GuessASketch) - Multiplayer Real-time Sketch Game using websockets and Ktor back end server, Speech recognition
-- [Bike Tracking](https://github.com/tully-8888/BikingApp) - 🚲 Bike Ride tracking app using MVVM, fragments, GPS tracking service, Room database, custom TypeConverters
-- [Cats vs. Dogs](https://github.com/tully-8888/CatsVsDogsAndroid) - Cats versus Dogs for world domination. Realtime 2-player game built with websockets
-- [Hyperlocal Weather](https://github.com/tully-8888/HyperlocalWeather) - Hyperlocal Weather tracking application using Compose and [`Open-meteo Api`](https://open-meteo.com)
-- [Slang-Dictionary](https://github.com/tully-8888/Slang-Dictionary) - American slang and regular dictionary based on [`dictionaryapi.dev`](https://dictionaryapi.dev), Pronounces the words and gives multiple definitions
-- [Calorie Track](https://github.com/tully-8888/CalorieTrack) - Multi-module CLEAN architecture app to track calories using [`Open Food Api`](https://world.openfoodfacts.org/)
 
 #### Smaller but still interesting
 - [Pixabay Image Search](https://github.com/tully-8888/PixabayApp) - Pixabay Image Search app using MVVM, Compose, Infinite Scroll, Offline cache using Room Database, Image preview using AndroidView of PhotoView
-- [Ktor Realtime Chat](https://github.com/tully-8888/KtorAndroidChat) - Realtime Chat App build with Ktor backend, MVVM, Compose, MongoDB Database, WebSockets, Ktor Client
-- [Spotify Clone](https://github.com/tully-8888/SpotifyClone) - Music streaming App & service using a Firebase back-end and the Exoplayer library
-- [Zombie Outbreak Locator](https://github.com/tully-8888/ZombieOutbreakLocator) -  ☣️ Convenient way to track Zombie Outbreaks worldwide using Compose Google Maps Api
-- [Tesla App](https://github.com/tully-8888/Tes
 
 #### Smaller but still interesting
 - [Pixabay Image Search](https://github.com/realityexpander/PixabayApp) - Pixabay Image Search app using MVVM, Compose, Infinite Scroll, Offline cache using Room Database, Image preview using AndroidView of PhotoView
 - [Ktor Realtime Chat](https://github.com/realityexpander/KtorAndroidChat) - Realtime Chat App build with Ktor backend, MVVM, Compose, MongoDB Database, WebSockets, Ktor Client
-- [Spotify Clone](https://github.com/realityexpander/SpotifyClone) - Music streaming App & service using a Firebase back-end and the Exoplayer library
-- [Zombie Outbreak Locator](https://github.com/realityexpander/ZombieOutbreakLocator) -  ☣️ Convenient way to track Zombie Outbreaks worldwide using Compose Google Maps Api
-- [Tesla App](https://github.com/realityexpander/TeslaRoadster) - Clone of the Tesla Roadster site as an Android App with WebView, HTML5, Bootstrap
-- [Stock Market Info](https://github.com/realityexpander/StockMarketApp) - Gives lots of information about stocks, uses [`AlphaAdvanatage`](https://www.alphavantage.co/) api, Compose custom graphs, CLEAN and SOLID design
-- [Ktor Notes App](https://github.com/realityexpander/KtorNoteApp) - Fully implemented MVVM Note App with Accounts, Authentication, Encryption and Ktor Server Backend
-- [Catulator](https://github.com/realityexpander/Catulator) - 😸 Cat calculator app built with MVVM/MVI and Compose, using scientifikitten cat-zero notation
-- [KMM Notes App](https://github.com/realityexpander/NoteAppKMM) - KMM (Kotlin Multiplaform Mobile) example app for taking notes. Deployable to iOS and Android
-- [Video Player/Recorder](https://github.com/realityexpander/VideoPlayerCompose) - Video player and recording using Exoplayer. Implements Compose, Exoplayer, Hilt
-- [Video Conferencing](https://github.com/realityexpander/AgoraUIKit) - Video Conferencing app using Compose and Agora video conferencing library (requires key generation for 24 hour access)
-- [Shopping Notes](https://github.com/realityexpander/ShoppingNotes) - Shopping list app with MVVM
-- [Crypto Info](https://github.com/realityexpander/CryptoApp) - Gives lots of information about the top coins, uses [`coinpaprika`](https://api.coinpaprika.com/) api, CLEAN and SOLID design
-- [MVVM Todo](https://github.com/realityexpander/MVVMTodoApp) - Simple Todo app showcasing MVVM CLEAN and SOLID practices
-- [Charlly Finely Life Coach](https://github.com/realityexpander/CharllyLifeCoach) - Charlly Finely - Motivational Life Coach AI will solve all your problems!
 
 ### Medium Articles
 - [How to use Parcelable and custom @TypeParceler with Kotlin Multiplatform Mobile (KMM)](https://medium.com/@chrisathanas/how-to-use-parcels-on-kotlin-multiplatform-mobile-kmm-e29590816624)
