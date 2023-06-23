@@ -12,6 +12,7 @@
 ### Interesting Android Native & iOS projects I have built:
 
 #### Larger Projects
+- [Kopilot](https://play.google.com/store/apps/details?id=ro.seltronix.kopilot) - Truck navigation made for professional drivers, over 100k download on Play Store!
 - [DPI Changer](https://play.google.com/store/apps/details?id=com.theviciousgames.dpimodifier) - Simple, (non) root DPI Changer. MVVM / Kotlin / CLEAN, over 400k download on Play Store!
 
 #### Smaller but still interesting
