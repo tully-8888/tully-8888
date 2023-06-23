@@ -19,15 +19,19 @@
 #### Smaller but still interesting
 - [Pixabay Image Search](https://github.com/tully-8888/PixabayApp) - Pixabay Image Search app using MVVM, Compose, Infinite Scroll, Offline cache using Room Database, Image preview using AndroidView of PhotoView
 
+### Linkedin
+- [Profile](https://www.linkedin.com/in/tulituvlad)
+
 ### Medium Articles
 - [SOON](SOON)
 
 ### Google Play
-- [Google Play Developer Page](https://play.google.com/store/apps/dev?id=7466162782462237210)
+- [aBetterAndroid](https://play.google.com/store/apps/dev?id=8049005269403185530)
+- [TheViciousGames](https://play.google.com/store/apps/dev?id=8596449374117840036)
+- [Controversialz](SOON)
 
-### Portfolio Site (not updated since 2018, this repo is more recent)
-- [Chris Athanas's Portfolio](https://asd.com/resume)
-- [LinkedIn Profile](https://www.linkedin.com/in/tulituvlad)
+### Website
+- [All about me](SOON)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tully-8888)
 
