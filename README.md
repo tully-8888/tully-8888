@@ -32,7 +32,7 @@
 - [Controversialz](SOON)
 
 ### Website
-- [All about me](SOON)
+- [All about me](https://VladTulitu.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tully-8888)
 
