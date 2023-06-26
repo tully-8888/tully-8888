@@ -5,7 +5,7 @@
 -->
 
 - 🔭 I’m currently working on Android and iOS native apps.
-- ✨ Kotlin and I have been partners in code-crime 🕵️‍♂️, solving Android mysteries and leaving a trail of successful apps in our wake.
+- 🕵️‍♂️ Kotlin and I have been partners in code-crime, solving Android mysteries and leaving a trail of successful apps in our wake.
 - 🌱 I’m exploring latest techniques in Android, things (too) change quickly around here!
 - 📫 How to reach me: tulituvlad@gmail.com
 - ⚡ Fun fact: My second app made by myself has 400k+ downloads.
