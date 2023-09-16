@@ -1,4 +1,4 @@
-### Hello World! 👋 I'm Vlad Tulitu, but you can call me Ctrl+S. Why, you ask? Because I'm your go-to guy when it comes to saving your Android project! 🦸‍♂️
+### Hello World! 👋 I'm Vlad, but you can call me Ctrl+S. Why, you ask? Because I'm your go-to guy when it comes to saving your Android project! 🦸‍♂️
 
 <!--
 **tully-8888/tully-8888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
