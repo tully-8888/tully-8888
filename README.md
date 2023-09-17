@@ -15,10 +15,13 @@
 #### Larger Projects
 - [Kopilot](https://play.google.com/store/apps/details?id=ro.seltronix.kopilot) - Truck navigation made for professional drivers, over 100k download on Play Store!
 - [DPI Changer](https://play.google.com/store/apps/details?id=com.theviciousgames.dpimodifier) - Simple, (non) root DPI Changer. MVVM / Kotlin / CLEAN, over 400k download on Play Store!
+- [Resolution Changer](https://play.google.com/store/apps/details?id=com.theviciousgames.resolutionchanger) - Noob-friendly, (non) root Resolution Changer. MVVM / Kotlin / CLEAN, over 400k download on Play Store!
 - [S20 Advanced Menu](https://play.google.com/store/apps/details?id=com.theviciousgames.s20advancedmenu) - Advanced System Menu for Samsung Galaxy S20, root-only hidden settings changer like refresh rate and resolution modes. Java / (not so) CLEAN.
   
 #### Smaller but still interesting
 - [Real-Time Refresh Rate Checker](https://play.google.com/store/apps/details?id=com.theviciousgames.dynamicrefreshratechecker) - Monitor refresh rate in real time. Useful for testing CPU/GPU Throttling and locked-refresh-rate-apps.
+- [Resolution Checker](https://play.google.com/store/apps/details?id=com.theviciousgames.resolutionchecker) - Interested about your device resolution? This might be what you're looking for.
+- [Resolution Checker 2](https://play.google.com/store/apps/details?id=com.abetterandroid.resolutionchecker) - Similar to the original resolution checker but this one is a remake version made for experimenting certain things on Play Store.
 
 ### Linkedin
 - [Profile](https://www.linkedin.com/in/tulituvlad)
