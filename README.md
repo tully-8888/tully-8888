@@ -22,7 +22,7 @@
 - [Real-Time Refresh Rate Checker](https://play.google.com/store/apps/details?id=com.theviciousgames.dynamicrefreshratechecker) - Monitor refresh rate in real time. Useful for testing CPU/GPU Throttling and locked-refresh-rate-apps.
 - [Resolution Checker](https://play.google.com/store/apps/details?id=com.theviciousgames.resolutionchecker) - Interested about your device resolution? This might be what you're looking for.
 - [Resolution Checker 2](https://play.google.com/store/apps/details?id=com.abetterandroid.resolutionchecker) - Similar to the original resolution checker but this one is a remake version made for experimenting certain things on Play Store.
-- [MitigationsOff - CPU Mod Tweak](https://play.google.com/store/apps/details?id=com.abetterandroid.mitigationsoff) - Disable CPU mitigations to increase throughput CPU performance on your Android device.
+- [MitigationsOff](https://play.google.com/store/apps/details?id=com.abetterandroid.mitigationsoff) - Disable CPU mitigations to increase throughput CPU performance on your Android device.
 - [DNS Flusher](https://play.google.com/store/apps/details?id=com.theviciousgames.dnsflusher) - With just a tap of a button, you can easily flush your device's DNS and IP cache, resulting in faster and more reliable network connectivity.
 
 ### Linkedin
