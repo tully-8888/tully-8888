@@ -24,6 +24,7 @@
 - [Resolution Checker 2](https://play.google.com/store/apps/details?id=com.abetterandroid.resolutionchecker) - Similar to the original resolution checker but this one is a remake version made for experimenting certain things on Play Store.
 - [MitigationsOff](https://play.google.com/store/apps/details?id=com.abetterandroid.mitigationsoff) - Disable CPU mitigations to increase throughput CPU performance on your Android device.
 - [DNS Flusher](https://play.google.com/store/apps/details?id=com.theviciousgames.dnsflusher) - With just a tap of a button, you can easily flush your device's DNS and IP cache, resulting in faster and more reliable network connectivity.
+- [DPI Checker](https://play.google.com/store/apps/details?id=com.theviciousgames.dpichecker) - Check your dots per inch value of your Android screen.
 
 ### Linkedin
 - [Profile](https://www.linkedin.com/in/tulituvlad)
